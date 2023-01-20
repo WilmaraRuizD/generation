@@ -52,4 +52,5 @@ console.log(typeof null); //OBJETO dato compuesto
 console.log(typeof isDev)//booleano 
 
 
-
+null==false 
+0==false 
