@@ -1,9 +1,8 @@
 body{
-    background-color: cadetblue;
+    background-color: #B5E8FA;
 }
 
-.center{
-  margin:auto;
-  width: 60%;
+div{
+  text-align: center;
   
 }
