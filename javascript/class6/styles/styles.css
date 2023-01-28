@@ -1,0 +1,29 @@
+body{
+    background-color: #aa6eaa;
+    align-items: center;
+}
+
+.container{
+    background-color: #7d2181;
+    color: antiquewhite;
+    width: 450px;
+    border-radius: 10px;
+    text-align:center;
+
+}
+
+.imagenes{
+    margin: 5px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+
+
+.lista li{
+    list-style-type: none;
+    display: inline;
+    padding-right: 5px;
+    
+}
