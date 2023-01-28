@@ -1,0 +1,13 @@
+body{
+  max-width: 1000px;
+  margin: 0 auto;
+  font-family: sans-serif;
+  padding: 70px;
+  background: rebeccapurple;
+}
+section{
+  background-color: #b4b4b4
+}
+img{
+  max-width: 100%;
+}
